@@ -12,5 +12,6 @@
 
 como subir o projeto?
 
+```
 docker-compose up -d --build
-
+```
